@@ -4,4 +4,4 @@
 ## Disclaimer
 This repo is for educational purposes only!
 
-The purpose of is repo is to see how this old dead client works.
+The purpose of this repo is to see how this old dead client works.
