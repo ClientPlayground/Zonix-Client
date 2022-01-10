@@ -1,5 +1,5 @@
 # Zonix Client
-1.7.10 | Version Unknown
+1.7.10 | zonix-1.2
 
 ## Disclaimer
 This repo is for educational purposes only!
